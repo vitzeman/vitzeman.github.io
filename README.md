@@ -24,6 +24,7 @@ c
 
 <h3 align="center">Languages</h3>
 
+<!-- ![Linkedin Badge](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+) -->
 <h4 align="center">I mainly work with Python and it's libraries:</h4>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
@@ -34,14 +35,15 @@ c
     <img alt="Pytorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<\p>
+</p>
 <h4 align="center">I've also worked with:</h4>
 <p align="center">
     <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
     <img alt="Cpp" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     <img alt="Julia" src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white" />
     <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-C04C0B?style=for-the-badge&logo=Matlab&logoColor=white" />
-<\p>
+</p>
+
 <h3 align="center">Tools</h3>
 <p align="center">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
@@ -50,24 +52,28 @@ c
     <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
     <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
     <img alt="SLURM" src="https://img.shields.io/badge/-Slurm-1BAEE9?style=for-the-badge&logo=Sllurm&logoColor=white" />
-    <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<\p>
+    <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+     -->
+     <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
+
+
+
+
+<!-- I’m mostly working with Python and it's libraries such as Numpy, Pytorch, OpenCV and many others. Aditionaly I worked with Matlab on mathematics, control theory and image processing. Aditionaly I used C and C++ in robotic classes. -->
 
 <h3>My contacts:</h3> 
-a
+
 [LinkedIn](https://www.linkedin.com/in/vít-zeman-302822134)
-b
+
 [ORCID](https://orcid.org/0009-0007-9304-9354)
 
 
 <h4 >Work email :</h4>   
-c
+
 [zemanvit@cvut.cz](<mailto:zemanvit@cvut.cz>)
 
 <h4 >Personal email :</h4> 
 
 [vit.zeman.cz@gmail.com](<mailto:vit.zeman.cz@gmail.com>)
-
-[CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-zeman/)
-
