@@ -5,22 +5,6 @@ I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-z
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
 I have completed my Master of Science in Cybernetics and Robotics at the Faculty of Electrical Engineering, Czech Technical University in Prague, where I also finished my Bachelor’s in the same field.   
-<h3>My contacts:</h3> 
-a
-[LinkedIn](https://www.linkedin.com/in/vít-zeman-302822134)
-b
-[ORCID](https://orcid.org/0009-0007-9304-9354)
-
-
-<h4 >Work email :</h4>   
-c
-[zemanvit@cvut.cz](<mailto:zemanvit@cvut.cz>)
-
-<h4 >Personal email :</h4> 
-
-[vit.zeman.cz@gmail.com](<mailto:vit.zeman.cz@gmail.com>)
-
-[CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-zeman/)
 
 <h3 align="center">Languages</h3>
 
