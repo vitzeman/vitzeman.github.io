@@ -61,3 +61,16 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
 <h4 >Personal email :</h4> 
 
 [vit.zeman.cz@gmail.com](<mailto:vit.zeman.cz@gmail.com>)
+
+<h3>My contacts:</h3> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-zemanvit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vít-zeman-302822134)
+[![Linkedin Badge](https://img.shields.io/badge/-Vít_Zeman-gray?style=flat&logo=orcid&logoColor=#A6CE39)](https://orcid.org/0009-0007-9304-9354)
+
+<h4 >Work email :</h4>   
+
+[![Linkedin Badge](https://img.shields.io/badge/-zemanvit@cvut.cz-white?style=flat&logo=gmail&logoColor=blue)](<mailto:zemanvit@cvut.cz>)
+
+<h4 >Personal email :</h4> 
+
+[![Linkedin Badge](https://img.shields.io/badge/-vit.zeman.cz@gmail.com-white?style=flat&logo=gmail&logoColor=red)](<mailto:vit.zeman.cz@gmail.com>)
