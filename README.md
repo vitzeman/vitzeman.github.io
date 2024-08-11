@@ -5,10 +5,25 @@ I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-z
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
 I have completed my Master of Science in Cybernetics and Robotics at the Faculty of Electrical Engineering, Czech Technical University in Prague, where I also finished my Bachelor’s in the same field.   
+<h3>My contacts:</h3> 
+a
+[LinkedIn](https://www.linkedin.com/in/vít-zeman-302822134)
+b
+[ORCID](https://orcid.org/0009-0007-9304-9354)
+
+
+<h4 >Work email :</h4>   
+c
+[zemanvit@cvut.cz](<mailto:zemanvit@cvut.cz>)
+
+<h4 >Personal email :</h4> 
+
+[vit.zeman.cz@gmail.com](<mailto:vit.zeman.cz@gmail.com>)
+
+[CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-zeman/)
 
 <h3 align="center">Languages</h3>
 
-<!-- ![Linkedin Badge](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+) -->
 <h4 align="center">I mainly work with Python and it's libraries:</h4>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
@@ -35,16 +50,9 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
     <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
     <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
     <img alt="SLURM" src="https://img.shields.io/badge/-Slurm-1BAEE9?style=for-the-badge&logo=Sllurm&logoColor=white" />
-    <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-     -->
-     <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="SLURM" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 
-
-
-
-
-<!-- I’m mostly working with Python and it's libraries such as Numpy, Pytorch, OpenCV and many others. Aditionaly I worked with Matlab on mathematics, control theory and image processing. Aditionaly I used C and C++ in robotic classes. -->
 
 <h3>My contacts:</h3> 
 a
