@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, welcome to my profile</h1>
 <!-- <h3 align="center"> </h3> -->
 
-I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-zeman/), where I also interned during my studies.
+I'm a researcher at [CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/), where I also interned during my studies.
 My focus is on the usage of computer vision and machine learning in industrial applications.
  
 I have completed my Master of Science in Cybernetics and Robotics at the Faculty of Electrical Engineering, Czech Technical University in Prague, where I also finished my Bachelor’s in the same field.   
@@ -46,29 +46,14 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
 
 
 <!-- I’m mostly working with Python and it's libraries such as Numpy, Pytorch, OpenCV and many others. Aditionaly I worked with Matlab on mathematics, control theory and image processing. Aditionaly I used C and C++ in robotic classes. -->
-
-<h3>My contacts:</h3> 
-
-[LinkedIn](https://www.linkedin.com/in/vít-zeman-302822134)
-
-[ORCID](https://orcid.org/0009-0007-9304-9354)
-
-
-<h4 >Work email :</h4>   
-
-[zemanvit@cvut.cz](<mailto:zemanvit@cvut.cz>)
-
-<h4 >Personal email :</h4> 
-
-[vit.zeman.cz@gmail.com](<mailto:vit.zeman.cz@gmail.com>)
-
 <h3>My contacts:</h3> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-zemanvit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vít-zeman-302822134)
 [![Linkedin Badge](https://img.shields.io/badge/-Vít_Zeman-gray?style=flat&logo=orcid&logoColor=#A6CE39)](https://orcid.org/0009-0007-9304-9354)
 
-<h4 >Work email :</h4>   
+<h4 >Work:</h4>   
 
+[CTU CIIRC Testbed for Industry 4.0](https://ricaip.eu/vit-zeman/)
 [![Linkedin Badge](https://img.shields.io/badge/-zemanvit@cvut.cz-white?style=flat&logo=gmail&logoColor=blue)](<mailto:zemanvit@cvut.cz>)
 
 <h4 >Personal email :</h4> 
