@@ -53,9 +53,6 @@ I have completed my Master of Science in Cybernetics and Robotics at the Faculty
   <a href="https://www.linkedin.com/in/vít-zeman-302822134" title="LinkedIn">
     <img alt="Webpage" src="https://img.shields.io/badge/-zemanvit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://orcid.org/0009-0007-9304-9354" title="Orcid">
     <img alt="Orcid" src="https://img.shields.io/badge/-Vít_Zeman-gray?style=for-the-badge&logo=orcid&logoColor=#A6CE39" />
   </a>
