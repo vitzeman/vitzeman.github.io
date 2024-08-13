@@ -53,7 +53,7 @@ I have completed my Master of Science degree in [Cybernetics and Robotics](https
   <a href="https://www.linkedin.com/in/vít-zeman-302822134" title="LinkedIn">
     <img alt="Webpage" src="https://img.shields.io/badge/-zemanvit-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
- <a href="https://www.linkedin.com/in/vít-zeman-302822134" title="GitHub">
+ <a href="https://github.com/vitzeman" title="GitHub">
     <img alt="Github" src="https://img.shields.io/badge/-vitzeman-181717?style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0007-9304-9354" title="ORCID">
