@@ -74,7 +74,7 @@ I have completed my Master of Science degree in [Cybernetics and Robotics](https
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=Gitlab&logoColor=white" />
     <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" />
-    <img alt="ROS" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
+    <img alt="ROS2" src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS2&logoColor=white" />
     <img alt="SLURM" src="https://img.shields.io/badge/-Slurm-1BAEE9?style=for-the-badge&logo=Sllurm&logoColor=white" />
     <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
      -->
